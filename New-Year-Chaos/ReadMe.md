@@ -23,7 +23,9 @@ Each test case is comprised of two lines; the first line has n(an integer indica
 and the second line has n space-separated integers describing the final state of the queue.
 
 Constraints
+
 1<=T<=10
+
 1<=n<=10^5
 
 Output Format
@@ -34,14 +36,19 @@ print Too chaotic if the state is invalid (requires Person X to bribe more than 
 Sample Input
 
 2
+
 5
+
 2 1 5 3 4
+
 5
+
 2 5 1 3 4
 
 Sample Output
 
 3
+
 Too chaotic
 
 Difficulty: Moderate
