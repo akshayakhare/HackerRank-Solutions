@@ -1,7 +1,4 @@
-#!/bin/python
-
 import sys
-
 
 n = int(raw_input().strip())
 arr = []
