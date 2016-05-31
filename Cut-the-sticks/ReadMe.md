@@ -25,14 +25,17 @@ For each operation, print the number of sticks that are cut, on separate lines.
 #### Constraints
 - 1 ≤ N ≤ 1000
 - 1 ≤ ai ≤ 1000
+
 ### Sample Input
 - 6
 - 5 4 4 2 2 8
+
 ### Sampe Output
 - 6
 - 4
 - 2
 - 1
+
 ### Explanation:
 #### Sample Case #00 :
 - sticks-length        length-of-cut   sticks-cut
@@ -41,6 +44,7 @@ For each operation, print the number of sticks that are cut, on separate lines.
 - 1 _ _ _ _ 4             1               2
 - _ _ _ _ _ 3             3               1
 - _ _ _ _ _ _           DONE            DONE
+
 #### Sampe Case #01 :
 - sticks-length         length-of-cut   sticks-cut
 - 1 2 3 4 3 3 2 1         1               8
